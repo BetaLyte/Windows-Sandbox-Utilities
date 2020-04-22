@@ -2,8 +2,8 @@
 
 #For a custom username, add -username <your username> to the command execution
 param(
-  [string]$username = 'wsandbox_anon',
-  [string]$team     = '251561'
+  [string]$username = 'CBS-wsandbox',
+  [string]$team     = '245433'
 )
 $ProgressPreference = 'SilentlyContinue' #Progress bar makes things way slower
 
